@@ -1,0 +1,26 @@
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+}
+table,th,td{
+    border: 2px ;
+    border-spacing: 0px;
+    border-color: brown;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 90px;
+}
+#hehe{
+    color: rgb(205, 94, 50);
+}
+.provi{
+    margin: 40px 60px 80px 100px;
+    padding: 20px 20px 20px 20px;
+    background-image: url("https://www.providencecollegecalicut.ac.in/wp-content/uploads/2022/04/principal.jpg");
+    background-repeat: no repeat;
+    background-size: cover;
+    background-position: center;
+}
+.provide{
+     background-color: white;
+}
